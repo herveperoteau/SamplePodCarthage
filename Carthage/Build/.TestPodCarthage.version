@@ -1,11 +1,11 @@
 {
   "iOS" : [
     {
-      "hash" : "4604a7234db9cd6ed3cb9a0533734ec962873c9d11e3cec094e0ae2ba5223f58",
+      "hash" : "6fd0bb35a75f3c6f1cfa34f50c555bb04f4fb7fb8a234ef98305997411fb55ab",
       "name" : "TestPodCarthage"
     }
   ],
-  "commitish" : "1.0.1",
+  "commitish" : "1.0.2",
   "watchOS" : [
 
   ],

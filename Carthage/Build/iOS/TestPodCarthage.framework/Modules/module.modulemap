@@ -1,0 +1,11 @@
+framework module TestPodCarthage {
+  umbrella header "TestPodCarthage.h"
+
+  export *
+  module * { export * }
+}
+
+module TestPodCarthage.Swift {
+    header "TestPodCarthage-Swift.h"
+    requires objc
+}

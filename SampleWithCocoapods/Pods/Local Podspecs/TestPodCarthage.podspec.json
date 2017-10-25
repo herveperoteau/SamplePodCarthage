@@ -1,0 +1,19 @@
+{
+  "name": "TestPodCarthage",
+  "version": "1.0.3",
+  "license": "MIT",
+  "summary": "Test Kit compatible with cocoapods & carthage",
+  "homepage": "https://github.com/herveperoteau/TestPodCarthage",
+  "social_media_url": "https://twitter.com/herveperoteau",
+  "authors": {
+    "Herve Peroteau": "herve.peroteau@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/herveperoteau/TestPodCarthage.git",
+    "tag": "1.0.3"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestPodCarthage/TestPodCarthage/*.swift"
+}
